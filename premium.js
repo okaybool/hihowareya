@@ -145,6 +145,8 @@ SoundFiltersArray	= {
 '!oboost':'http://okaycool.africa/u/bruh/cj9AfOq8g3.mp3',
 '!jail': 'http://okaycool.africa/u/bruh/L7PYRQGX9z.mp3',
 '!stfu': 'http://okaycool.africa/u/bruh/FUNc2o74i6.mp3',
+'!gtab': 'https://lagloyavi.ch/u/lag-2020.07.16-02.10.17.mp3',
+'!read': 'http://okaycool.africa/u/bruh/IDSL3XpKmo.mp3',
 '!popoff': 'http://okaycool.africa/u/bruh/cLHCtDw8XO.mp3',
 '!4u' : 'https://www.myinstants.com/media/sounds/bane-1.mp3',
 '!woow' : 'https://dl.dropboxusercontent.com/s/uk0pwd36kmu9xwf/weebwow.mp3' ,
