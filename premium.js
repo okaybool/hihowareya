@@ -151,7 +151,7 @@ SoundFiltersArray	= {
 '!4u' : 'https://www.myinstants.com/media/sounds/bane-1.mp3',
 '!woow' : 'https://dl.dropboxusercontent.com/s/uk0pwd36kmu9xwf/weebwow.mp3' ,
 '!yoo' : 'https://www.myinstants.com/media/sounds/yoooooooooooooooooooooooooooohhhhhhhhhhhhhhhhhhhhhhhhhhhhhh.mp3',
-'!vomit' : 'http://okaycool.africa/u/bruh/duaZKlnQS1.mp3'
+'!vomit' : 'http://okaycool.africa/u/bruh/GhyfNHD6We.mp3'
 };
 
 FactsArray		= [];
